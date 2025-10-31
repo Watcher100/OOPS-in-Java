@@ -30,10 +30,9 @@ class Chicken extends Animal {
 
 public class Abstraction_exmpl{
     public static void main(String args[]){
-        Horse h1 = new Horse();/*called 2 constractor but 1st
-                                called the parent class one*/
+        Horse h1 = new Horse();/*called 2 constractor but 1st called the parent class one*/
+        
         // h1.walk();
-
         // h1.eats();
 
             //error we can't create abstract class obj.

@@ -1,4 +1,4 @@
-//abstract class only exsit we not use it 
+//abstract class only exsit we are not use it 
 abstract class Animal {
     abstract void walk();
     //Constructor
